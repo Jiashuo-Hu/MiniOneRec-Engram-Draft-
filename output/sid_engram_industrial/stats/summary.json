@@ -1,0 +1,14 @@
+{
+  "train_file": "data\\Amazon\\train\\Industrial_and_Scientific_5_2016-10-2018-11.csv",
+  "score_type": "pmi",
+  "ngram_orders": [
+    1,
+    2
+  ],
+  "top_k": 50,
+  "recency_lambda": 0.2,
+  "use_hierarchical_sid": true,
+  "num_triggers": 33432,
+  "num_targets": 3620,
+  "total_weight": 452367.7251943511
+}

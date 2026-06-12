@@ -1,0 +1,20 @@
+{
+  "num_sids": 3670,
+  "num_prefixes": 6013,
+  "num_items_from_index": 3686,
+  "split_stats": {
+    "train": {
+      "rows": 36259,
+      "avg_history_len_x1000": 3769
+    },
+    "valid": {
+      "rows": 4532,
+      "avg_history_len_x1000": 4642
+    },
+    "test": {
+      "rows": 4533,
+      "avg_history_len_x1000": 4956
+    }
+  },
+  "index_file": "data\\Amazon\\index\\Industrial_and_Scientific.index.json"
+}
